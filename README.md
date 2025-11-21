@@ -1,5 +1,7 @@
 # Saif-Eldeen
-![Banner](https://i.imgur.com/BvU7xW3.png)
+```diff
++ Welcome to my GitHub Profile
+```
 
 ## 👨‍💻 About Me:
 Full-Stack Developer specializing in building secure and scalable web applications.
