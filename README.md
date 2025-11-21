@@ -35,6 +35,8 @@ Passionate about backend architecture and cybersecurity best practices.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+## 🐍 Contribution Snake:
+![snake gif](https://github.com/zeroident0/zeroident0/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📊 GitHub Stats:
