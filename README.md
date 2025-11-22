@@ -6,8 +6,16 @@
 
 + Passionate about backend architecture and cybersecurity best practices.
 ```
-## 📱 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saif_eldeen06/)
+## - Socials
+
+<p align="center">
+  <a href="https://www.instagram.com/saif_eldeen06/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/saif-eldeen-273692253/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## - Tech Stack:
 <p align="left">
@@ -24,10 +32,11 @@
   <img src="https://skillicons.dev/icons?i=firebase,supabase,unity,vscode,postman,git,docker" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroident0&layout=compact&theme=dark" 
+       alt="Top Languages" 
+       style="border-radius: 15px; border: 2px solid #fff; padding: 10px;" />
+</p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroident0&layout=compact&theme=dark)
-
-## ✨ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
