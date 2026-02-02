@@ -14,14 +14,12 @@
 
 
 ## - Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,cs,nodejs,python" />
-</p>
+## 🛠️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,cs,nodejs,python)
 
-## - Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,unity,vscode,postman,git,docker" />
-</p>
+## 🔧 Tools
+![Tools](https://skillicons.dev/icons?i=firebase,supabase,unity,vscode,postman,git,docker)
+
 
 ## - Database
 <p align="left">
